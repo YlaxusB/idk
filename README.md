@@ -1,2 +1,2 @@
 Interesting description
-<a href="https://github.com/YlaxusB/idk/blob/main/index.html">Aqui</a>
+<a href="https://ylaxusb.github.io/idk/">Here</a>
